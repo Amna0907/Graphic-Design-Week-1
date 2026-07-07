@@ -21,6 +21,7 @@ To create visually appealing social media posts that communicate information cle
 -Tools Used
 
 Canva
+
 Canva Elements 
 
 -Design Principles Applied:
