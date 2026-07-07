@@ -7,26 +7,24 @@ https://canva.link/zr02def85f0s6hc
 https://canva.link/2vdzi3dacx1tfgs
 https://canva.link/ip8ah1h75akn6mw
 
-│   ├── PSD/AI Files (if available)
-│
-├── Final-Designs/
-│   ├── 
-│   ├── Design-2.png
-│   ├── Design-3.png
-│
-├── Assets/
-│
-├── Introduction
+
+
+
+├── -Introduction
+
 This repository contains my Week 1 graphic design internship tasks completed for DawoodTech Nextgen. The designs were created to practice layout, typography, color theory, and visual hierarchy.
 
-Design Objective
+-Design Objective
+
 To create visually appealing social media posts that communicate information clearly while maintaining a professional and modern design style.
 
-Tools Used
+-Tools Used
+
 Canva
 Canva Elements 
 
-Design Principles Applied:
+-Design Principles Applied:
+
 Visual Hierarchy
 Alignment
 White Space
@@ -34,27 +32,34 @@ Contrast
 Consistency
 Balance
 
-Color PaletteWhite (#FFFFFF)
+-Color Palette
+
+White:(#FFFFFF)
 Black (#000000)
 Blues:#004AAD
 #2563EB
 #283C87
 
-Fonts Used
+-Fonts Used:
+
 Poppins
 League Spartan
 Garet 
 Hussar Bold
 Bebas Neue Cyrillic
 
-Learning Summary
+-Learning Summary:
+
 During this week, I learned the fundamentals of graphic design, including typography, white space, alignment, color harmony, visual hierarchy, and creating professional social media posts in Canva.
 
-Challenges Faced
+-Challenges Faced:
+
 Maintaining proper spacing, choosing suitable fonts, balancing the layout, and creating a clean, professional design while keeping the content readable.
-Final Outcome
+
+-Final Outcome:
 
 Successfully designed three social media posts:
+
 Internship Admission
 Web Development Services
 Graphic Design Training
